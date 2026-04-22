@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/assets/mobileconfig/*"
+  [headers.values]
+    Content-Type = "application/x-apple-aspen-config"
